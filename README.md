@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<img align="left" alt="elluzion Github Stats" src="https://github-readme-stats.vercel.app/api?username=elluzion&show_icons=false&hide_border=true&theme=radical" />
 <!--
 **elluzion/elluzion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
